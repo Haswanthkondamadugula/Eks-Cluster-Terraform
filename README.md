@@ -82,7 +82,7 @@ Before you begin, ensure you have the following installed:
 ### 1️⃣ **Clone the Repository**  
 
 ```bash
-git clone https://github.com/NotHarshhaa/eks-cluster-terraform
+git clone https://github.com/Haswanthkondamadugula/eks-cluster-terraform
 cd eks-cluster-terraform
 ```
 
